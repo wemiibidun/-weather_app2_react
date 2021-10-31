@@ -19,7 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Introduction
 
-The aim of this project is create a weather app with react that grabs some specific information from open weather API such as temperature and displays to the user
+The aim of this project is create a weather app with react that grabs some specific information from open weather API such as temperature and displays to the user. The aim of this project is to practice and showcase my react hooks skills
 
 #### Available Scripts
 
