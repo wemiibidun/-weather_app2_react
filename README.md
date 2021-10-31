@@ -53,7 +53,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/weather_app_react/blob/master/weather_screenshot.png)
+![Sample image](https://github.com/wemiibidun/weather_app2_react/blob/main/Screen%20Shot.png)
+![Sample image](https://github.com/wemiibidun/weather_app2_react/blob/main/Screen%20Shot.png)
 
 ## Technologies (Language, Library and Framework)
 * React
