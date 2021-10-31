@@ -19,7 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Introduction
 
-The aim of this project is create a weather app with react that grabs some specific information from open weather API such as temperature and displays to the user. The aim of this project is to practice and showcase my react hooks skills
+The aim of this project is create a weather app with react that grabs some specific information from open weather API such as temperature and displays to the user. The aim of this project is to practice and showcase my react hooks skills. Axios was used as a the third party to grap the required information from the API and the project was deployed on Github pages
 
 #### Available Scripts
 
@@ -61,13 +61,11 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ![JSX](https://img.shields.io/badge/JSX-239120?style=for-the-badge&logo=jsx&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-239120?style=for-the-badge&logo=axios&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-239120?style=for-the-badge&logo=heroku&logoColor=white)
 
 * React
 * JSX
 * CSS
 * Axios
-* Heroku
 
 ## Features
 The GUI of this project allows users to:
@@ -82,9 +80,9 @@ The GUI of this project allows users to:
 ## Status
 Project is: _Complete_
 
+
 ## Inspiration
 This project was inspired by [Tyler Pott's Tutorial](https://www.youtube.com/watch?v=GuA0_Z1llYU)
 
 ## Contact
 Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
-
