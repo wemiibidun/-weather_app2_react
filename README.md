@@ -19,7 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Introduction
 
-The aim of this project is create a weather app with react that grabs some specific information from open weather API such as temperature and displays to the user. The aim of this project is to practice and showcase my react hooks skills. Axios was used as the third party to grap the required information from the API and the project was deployed on Github pages
+The aim of this project is create a weather app with react that grabs some specific information from open weather API such as temperature and displays to the user. Two different backgrounds were used to display the weather information depending on how hot or cold the weather is. The aim of this project is to practice and showcase my react hooks skills. Axios was used as the third party to grap the required information from the API and the project was deployed on Github pages
 
 #### Available Scripts
 
