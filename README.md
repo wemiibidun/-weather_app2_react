@@ -74,7 +74,7 @@ The GUI of this project allows users to:
 
 
 ## Link to Published Project
-[Weather App Webpage](https://wemiibidun.github.io/weather_app_react/)
+[Weather App Webpage](https://wemiibidun.github.io/weather_app2_react/)
 
 
 ## Status
