@@ -3,7 +3,7 @@ import axios from 'axios';
 
 const api = {
   key: '7beedcd716bb91a99f2dfbd7d36d07d9',
-  base_url: 'http://api.openweathermap.org/data/2.5/'
+  base_url: 'https://api.openweathermap.org/data/2.5/'
 }
 
 
